@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{81588AE9-42DC-D297-CE87-87867240133E}",
+	"EngineAssociation": "5.8",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -67,15 +67,6 @@
 				"IOS",
 				"TVOS",
 				"VisionOS"
-			]
-		},
-		{
-			"Name": "MetaHumanBodyTracker",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
 			]
 		},
 		{
