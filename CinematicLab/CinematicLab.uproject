@@ -68,6 +68,15 @@
 				"TVOS",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "MetaHumanBodyTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
