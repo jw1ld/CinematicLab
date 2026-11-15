@@ -3,3 +3,4 @@
 
 *Tree_03.uasset filter=lfs diff=lfs merge=lfs -text
 *MHC_paladin.uasset filter=lfs diff=lfs merge=lfs -text
+*Previsualisation.mp4 filter=lfs diff=lfs merge=lfs -text
