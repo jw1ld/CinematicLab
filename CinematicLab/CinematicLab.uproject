@@ -100,8 +100,13 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MetaHumanRuntime",
-			"Enabled": true
+			"Name": "MetaHumanBodyTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
