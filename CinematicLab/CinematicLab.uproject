@@ -98,8 +98,6 @@
 		{
 			"Name": "MetaHumanGenerator",
 			"Enabled": true
-<<<<<<< HEAD
-=======
 		},
 		{
 			"Name": "MetaHumanBodyTracker",
@@ -109,7 +107,6 @@
 				"Mac",
 				"Linux"
 			]
->>>>>>> 866f2a9dd0f607728e3de609fa65fccec745222e
 		}
 	]
 }
