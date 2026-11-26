@@ -9380,3 +9380,682 @@ This is not allowed, possible solutions:
 [2026.11.26-08.00.17:424][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4908.793945
 [2026.11.26-08.00.19:089][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.11.26-08.00.19:089][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4910.126953, Update Interval: 355.949585
+[2026.11.26-08.02.21:424][ 50]Cmd: EDIT COPY
+[2026.11.26-08.02.22:478][ 97]Cmd: EDIT PASTE
+[2026.11.26-08.03.32:670][800]LogStreaming: Display: FlushAsyncLoading(836): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.26-08.03.32:764][800]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MetaHumans/Common/Controls/SM_MetaHuman_Faceboard_2x) ...
+[2026.11.26-08.04.17:163][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.11.26-08.04.43:034][110]LogStreaming: Display: FlushAsyncLoading(855): 1 QueuedPackages, 0 AsyncPackages
+[2026.11.26-08.05.43:200][155]LogSlate: Window 'Options For Baking' being destroyed
+[2026.11.26-08.05.44:728][155]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Engine/Transient.AnimSequence_0 (Required Memory Estimate: 33.57 MB)
+[2026.11.26-08.05.44:982][155]LogAnimationCompression: Display: Storing compressed animation data for /Engine/Transient.AnimSequence_0, at AnimationSequence/e8fa2a5415ebf98213168ad2eaa95132cd793c3e
+[2026.11.26-08.06.02:067][870]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.11.26-08.06.02:100][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment3/Castle_PreBattle] ([1] browsable assets)...
+[2026.11.26-08.06.02:100][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment3/Castle_PreBattle]
+[2026.11.26-08.06.02:962][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assignment3/Castle_PreBattle_Auto1
+[2026.11.26-08.06.02:962][870]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/Castle_PreBattle_Auto10EB771E64A25713C46E1AE88515CEB28.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/Autosaves/Game/Assignment3/Castle_PreBattle_Auto1.umap'
+[2026.11.26-08.06.04:051][870]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assignment3/Castle_PreBattle' took 2.180
+[2026.11.26-08.06.04:051][870]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.180
+[2026.11.26-08.06.04:052][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment3/LS_Jono_Shot2_1] ([2] browsable assets)...
+[2026.11.26-08.06.04:052][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment3/LS_Jono_Shot2_1]
+[2026.11.26-08.06.04:228][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assignment3/LS_Jono_Shot2_1_Auto1
+[2026.11.26-08.06.04:228][870]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/LS_Jono_Shot2_1_Auto189A692C44E267327A7730DAF0ABF11C5.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/Autosaves/Game/Assignment3/LS_Jono_Shot2_1_Auto1.uasset'
+[2026.11.26-08.06.04:230][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/A_JonosStuff/animations/AS_Jono_BowGrab] ([1] browsable assets)...
+[2026.11.26-08.06.04:230][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_JonosStuff/animations/AS_Jono_BowGrab]
+[2026.11.26-08.06.04:272][870]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/A_JonosStuff/animations/AS_Jono_BowGrab_Auto1
+[2026.11.26-08.06.04:272][870]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/AS_Jono_BowGrab_Auto1E70462D44A5D2C54626F21924783E9A7.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/Autosaves/Game/A_JonosStuff/animations/AS_Jono_BowGrab_Auto1.uasset'
+[2026.11.26-08.06.04:273][870]LogFileHelpers: Auto-saving content packages took 0.221
+[2026.11.26-08.06.10:368][145]Cmd: TRANSACTION UNDO
+[2026.11.26-08.06.10:368][145]LogEditorTransaction: Undo Delete Keys
+[2026.11.26-08.06.14:277][323]Cmd: TRANSACTION UNDO
+[2026.11.26-08.06.14:277][323]LogEditorTransaction: Undo Delete Keys
+[2026.11.26-08.06.26:600][932]Cmd: TRANSACTION UNDO
+[2026.11.26-08.06.26:600][932]LogEditorTransaction: Undo Delete Keys
+[2026.11.26-08.07.06:187][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5317.577148
+[2026.11.26-08.07.06:507][851]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.26-08.07.06:507][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5317.875000, Update Interval: 310.517914
+[2026.11.26-08.08.04:904][602]Cmd: TRANSACTION UNDO
+[2026.11.26-08.08.04:904][602]LogEditorTransaction: Undo Transform
+[2026.11.26-08.08.04:932][602]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.08.04:968][602]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.08.05:369][609]Cmd: TRANSACTION UNDO
+[2026.11.26-08.08.05:369][609]LogEditorTransaction: Undo Select Control
+[2026.11.26-08.09.32:304][196]Cmd: EDIT COPY
+[2026.11.26-08.09.33:061][220]Cmd: EDIT PASTE
+[2026.11.26-08.12.38:081][702]Cmd: TRANSACTION UNDO
+[2026.11.26-08.12.38:081][702]LogEditorTransaction: Undo Set Key Value
+[2026.11.26-08.12.39:697][756]Cmd: TRANSACTION UNDO
+[2026.11.26-08.12.39:697][756]LogEditorTransaction: Undo Set Key Value
+[2026.11.26-08.12.51:655][225]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5663.020508
+[2026.11.26-08.12.51:975][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.26-08.12.51:975][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5663.318359, Update Interval: 359.274872
+[2026.11.26-08.13.53:593][125]Cmd: TRANSACTION UNDO
+[2026.11.26-08.13.53:593][125]LogEditorTransaction: Undo Set Key Value
+[2026.11.26-08.17.26:138][185]Cmd: TRANSACTION UNDO
+[2026.11.26-08.17.26:138][185]LogEditorTransaction: Undo Set Key Value
+[2026.11.26-08.17.33:011][430]Cmd: TRANSACTION UNDO
+[2026.11.26-08.17.33:011][430]LogEditorTransaction: Undo Set Key Value
+[2026.11.26-08.18.23:560][583]Cmd: TRANSACTION UNDO
+[2026.11.26-08.18.23:560][583]LogEditorTransaction: Undo Transform
+[2026.11.26-08.19.46:991][724]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6078.343262
+[2026.11.26-08.19.47:312][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.26-08.19.47:312][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6078.636719, Update Interval: 307.132172
+[2026.11.26-08.21.03:626][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.11.26-08.21.05:924][270]LogSlate: Window 'Save Content' being destroyed
+[2026.11.26-08.21.05:958][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.11.26-08.21.05:986][270]LogFileHelpers: Saving Map: /Game/Assignment3/Castle_PreBattle
+[2026.11.26-08.21.05:992][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment3/Castle_PreBattle] ([1] browsable assets)...
+[2026.11.26-08.21.05:992][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment3/Castle_PreBattle]
+[2026.11.26-08.21.06:217][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.11.26-08.21.07:081][270]LogSavePackage: Moving output files for package: /Game/Assignment3/Castle_PreBattle
+[2026.11.26-08.21.07:081][270]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/Castle_PreBattle8977B5E645151D857CB5AFA47903C9F4.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Content/Assignment3/Castle_PreBattle.umap'
+[2026.11.26-08.21.07:591][270]LogFileHelpers: Saving Package: /Game/A_JonosStuff/animations/AS_Jono_BowGrab
+[2026.11.26-08.21.07:591][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/A_JonosStuff/animations/AS_Jono_BowGrab] ([1] browsable assets)...
+[2026.11.26-08.21.07:775][270]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/A_JonosStuff/animations/AS_Jono_BowGrab.AS_Jono_BowGrab]
+[2026.11.26-08.21.07:775][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/A_JonosStuff/animations/AS_Jono_BowGrab]
+[2026.11.26-08.21.07:821][270]LogSavePackage: Moving output files for package: /Game/A_JonosStuff/animations/AS_Jono_BowGrab
+[2026.11.26-08.21.07:822][270]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/AS_Jono_BowGrabFBE70EB1425EA0A5F54A5D8BA9E8418A.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Content/A_JonosStuff/animations/AS_Jono_BowGrab.uasset'
+[2026.11.26-08.21.07:823][270]LogFileHelpers: Saving Package: /Game/Assignment3/LS_Jono_Shot2_1
+[2026.11.26-08.21.07:824][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment3/LS_Jono_Shot2_1] ([2] browsable assets)...
+[2026.11.26-08.21.07:824][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment3/LS_Jono_Shot2_1]
+[2026.11.26-08.21.07:824][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assignment3/LS_Jono_Shot2_1" FILE="../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Content/Assignment3/LS_Jono_Shot2_1.uasset" SILENT=true
+[2026.11.26-08.21.07:994][270]LogSavePackage: Moving output files for package: /Game/Assignment3/LS_Jono_Shot2_1
+[2026.11.26-08.21.07:994][270]LogSavePackage: Moving '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Saved/LS_Jono_Shot2_1FCDF89AB4F7A130DF1331B90AD869C1E.tmp' to '../../../../../../Users/Jono/Documents/CinematicLab/CinematicLab/Content/Assignment3/LS_Jono_Shot2_1.uasset'
+[2026.11.26-08.21.08:136][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.17 sec (total: 7.17 sec)
+[2026.11.26-08.21.08:424][270]LogContentValidation: Enabled validators:
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.11.26-08.21.08:424][270]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.11.26-08.21.08:453][270]LogContentValidation: Display: Starting to validate 3 assets (0 associated objects such as actors)
+[2026.11.26-08.21.08:453][270]LogContentValidation: Additional assets added for validation by 0 validators:
+[2026.11.26-08.21.08:454][270]AssetCheck: /Game/Assignment3/Castle_PreBattle Validating asset
+[2026.11.26-08.21.08:454][270]AssetCheck: /Game/A_JonosStuff/animations/AS_Jono_BowGrab Validating asset
+[2026.11.26-08.21.08:454][270]AssetCheck: /Game/Assignment3/LS_Jono_Shot2_1 Validating asset
+[2026.11.26-08.21.08:454][270]LogContentValidation: Validated asset counts for 9 validators:
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 3
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.11.26-08.21.08:454][270]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.11.26-08.21.40:143][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.11.26-08.22.08:276][449]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting 1 jobs.
+[2026.11.26-08.22.08:276][449]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase starting job [1/1]
+[2026.11.26-08.22.08:318][449]LogCameraSystemEditor: No camera objects needed building (inspected 0 objects)
+[2026.11.26-08.22.08:318][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.11.26-08.22.08:319][449]LogPlayLevel: Creating play world package: /Game/Assignment3/UEDPIE_0_Castle_PreBattle
+[2026.11.26-08.22.08:550][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231341s)
+[2026.11.26-08.22.08:550][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assignment3/Castle_PreBattle.Castle_PreBattle to /Game/Assignment3/UEDPIE_0_Castle_PreBattle.Castle_PreBattle (0.231386s)
+[2026.11.26-08.22.08:690][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.11.26-08.22.08:699][449]LogChaosDD: Creating Chaos Debug Draw Scene for world Castle_PreBattle
+[2026.11.26-08.22.08:703][449]LogPlayLevel: PIE: World Init took: (0.003836s)
+[2026.11.26-08.22.08:703][449]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.26-08.22.08:703][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.26-08.22.08:703][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.26-08.22.08:703][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.26-08.22.08:703][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.26-08.22.08:703][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.26-08.22.08:703][449]LogAudioEnumeration: Display: Refreshing FWindowsMMDeviceCache
+[2026.11.26-08.22.08:706][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Console', Device='Speakers (Realtek(R) Audio)'
+[2026.11.26-08.22.08:707][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Console', Device='FrontMic (Realtek(R) Audio)'
+[2026.11.26-08.22.08:707][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Multimedia', Device='Speakers (Realtek(R) Audio)'
+[2026.11.26-08.22.08:708][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Multimedia', Device='FrontMic (Realtek(R) Audio)'
+[2026.11.26-08.22.08:708][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Render Role='Communications', Device='Realtek HD Audio 2nd output (Realtek(R) Audio)'
+[2026.11.26-08.22.08:708][449]LogAudioEnumeration: Display: FWindowsMMDeviceCache: Default Capture Role='Communications', Device='FrontMic (Realtek(R) Audio)'
+[2026.11.26-08.22.08:715][449]LogAudioMixerWasapi: Display: FWasapiServiceWatcher initial state: Audiosrv=RUNNING, AudioEndpointBuilder=RUNNING
+[2026.11.26-08.22.08:715][449]LogAudioMixerWasapi: Display: FWasapiServiceWatcher started.
+[2026.11.26-08.22.08:715][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'WASAPIMixer'
+[2026.11.26-08.22.08:716][449]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.11.26-08.22.08:718][449]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.11.26-08.22.08:718][449]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.11.26-08.22.08:718][449]LogAudioMixer: Display: FAudioMixerWasapi initialized: SampleRate=48000 NumChannels=2 NumDirectOutChannels=0 bIsAggregateDevice=0 StreamParams.Num()=1
+[2026.11.26-08.22.08:718][449]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.11.26-08.22.08:718][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.26-08.22.08:718][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.26-08.22.08:718][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.26-08.22.08:719][449]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2026.11.26-08.22.08:722][449]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2026.11.26-08.22.08:725][449]LogInit: FAudioDevice initialized with ID 30.
+[2026.11.26-08.22.08:725][449]LogAudio: Display: Audio Device (ID: 30) registered with world 'Castle_PreBattle'.
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2026.11.26-08.22.08:725][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.26-08.22.08:725][449]LogPlayLevel: Creating new non-realtime audio mixer
+[2026.11.26-08.22.08:725][449]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: False
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: bUseRenderScheduler set to true.
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.11.26-08.22.08:725][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.11.26-08.22.08:725][449]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.11.26-08.22.08:725][449]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.11.26-08.22.08:725][449]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.11.26-08.22.08:725][449]LogAudioMixer: Display: Initializing audio mixer using platform API: 'NonRealtime'
+[2026.11.26-08.22.08:726][449]LogAudioMixer: Display: Using Audio Hardware Device Non-realtime Renderer
+[2026.11.26-08.22.08:726][449]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.11.26-08.22.08:726][449]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.11.26-08.22.08:726][449]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.11.26-08.22.08:726][449]LogAudioMixer: Display: Output buffers initialized: Frames=32, Channels=2, Samples=64, InstanceID=31
+[2026.11.26-08.22.08:729][449]LogInit: FAudioDevice initialized with ID 31.
+[2026.11.26-08.22.08:729][449]LogAudio: Display: Audio Device (ID: 31) registered with world 'Castle_PreBattle'.
+[2026.11.26-08.22.08:729][449]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2026.11.26-08.22.08:729][449]LogAudio: Display: Audio Device unregistered from world 'Castle_PreBattle'.
+[2026.11.26-08.22.08:729][449]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.11.26-08.22.08:745][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.08:756][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.08:773][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_tal_nrw_chest_heavy_05_c'
+[2026.11.26-08.22.08:783][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.08:792][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.08:801][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:055][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:074][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:083][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:092][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:102][449]LogSkeletalMesh: USkeletalMeshComponent: Recreating Clothing Actors for 'SkeletalMesh2' with 'SK_ma_pala_combine_a'
+[2026.11.26-08.22.09:112][449]LogWorld: Bringing World /Game/Assignment3/UEDPIE_0_Castle_PreBattle.Castle_PreBattle up for play (max tick rate 0) at 2026.11.26-19.22.09
+[2026.11.26-08.22.09:183][449]LogWorld: Bringing up level for play took: 0.454199
+[2026.11.26-08.22.09:187][449]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2026.11.26-08.22.09:188][449]LogEnhancedInput: Enhanced Input local player subsystem has initialized the user settings!
+[2026.11.26-08.22.09:344][449]PIE: Server logged in
+[2026.11.26-08.22.09:348][449]PIE: Play in editor total start time 1.049 seconds.
+[2026.11.26-08.22.09:348][449]LogMovieRenderPipeline: Using the default MovieGraphPipeline; the pipeline specified in Project Settings (MoviePipeline) is not compatible with graphs.
+[2026.11.26-08.22.09:349][449]LogMovieRenderPipeline: Initializing MovieGraph Render
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam1(shot2) Outer: no shot(1).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [-80000,120000) (InnerName: JonoCam1(shot2) OuterName: no shot(1))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam3(shot2) Outer: no shot(2).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [120000,152800) (InnerName: JonoCam3(shot2) OuterName: no shot(2))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam2(Shot2) Outer: no shot(3).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [152800,266400) (InnerName: JonoCam2(Shot2) OuterName: no shot(3))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam3(shot2) Outer: no shot(4).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [266400,331200) (InnerName: JonoCam3(shot2) OuterName: no shot(4))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam4(shot2) Outer: no shot(5).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [331200,392000) (InnerName: JonoCam4(shot2) OuterName: no shot(5))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam5(s2) Outer: no shot(6).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [392000,467199) (InnerName: JonoCam5(s2) OuterName: no shot(6))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam6(s2) Outer: no shot(7).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [467199,472800) (InnerName: JonoCam6(s2) OuterName: no shot(7))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam7(s2) Outer: no shot(8).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [472800,529600) (InnerName: JonoCam7(s2) OuterName: no shot(8))
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Reusing existing ShotInfo for Inner: JonoCam8(s2) Outer: no shot(9).
+[2026.11.26-08.22.09:370][449]LogMovieRenderPipeline: Registering range: [529600,600000) (InnerName: JonoCam8(s2) OuterName: no shot(9))
+[2026.11.26-08.22.09:388][449]LogMovieRenderPipeline: Warning: Shot/Camera "no shot(7) [JonoCam6(s2)]" starts on a sub-frame. Rendered range has been rounded to the previous frame to make output numbers align with Sequencer.
+[2026.11.26-08.22.09:396][449]LogMovieRenderPipeline: Finished initializing MovieGraph Render
+[2026.11.26-08.22.09:464][450]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [1/9] OuterName: [no shot(1)] InnerName: JonoCam1(shot2).
+[2026.11.26-08.22.09:467][450]LogMovieRenderPipeline: Expanding Shot 1/9 (Shot: no shot(1) Camera: JonoCam1(shot2))
+[2026.11.26-08.22.09:468][450]Cmd: r.HLOD 0
+[2026.11.26-08.22.09:507][450]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.22.09:547][450]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.22.09:547][450]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.22.09:547][450]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [1/9] OuterName: [no shot(1)]  InnerName: JonoCam1(shot2).
+[2026.11.26-08.22.15:920][450]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.22.15:920][450]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.22.16:198][451]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2026.11.26-08.22.18:406][456]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.22.18:406][457]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.22.18:406][457]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.22.18:787][458]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.22.18:858][458]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.22.19:391][460]LogMovieRenderPipeline: Display: Using the following encoder for the MP4 encode: C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_81cce6c273d405a6\nvEncMFTH264x.dll
+[2026.11.26-08.22.39:983][549]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumGeometrySegments changed: current: 768 - new: 1280
+[2026.11.26-08.23.23:547][706]Cmd: r.HLOD 0
+[2026.11.26-08.23.23:548][706]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.23.30:071][707]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [2/9] OuterName: [no shot(2)] InnerName: JonoCam3(shot2).
+[2026.11.26-08.23.30:075][707]LogMovieRenderPipeline: Expanding Shot 2/9 (Shot: no shot(2) Camera: JonoCam3(shot2))
+[2026.11.26-08.23.30:075][707]Cmd: r.HLOD 0
+[2026.11.26-08.23.30:084][707]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.23.30:143][707]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.23.30:144][707]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.23.30:144][707]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [2/9] OuterName: [no shot(2)]  InnerName: JonoCam3(shot2).
+[2026.11.26-08.23.37:202][707]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.23.37:202][707]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.23.39:753][713]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.23.39:753][714]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.23.39:753][714]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.23.40:423][714]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.23.40:470][715]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.23.55:343][754]Cmd: r.HLOD 0
+[2026.11.26-08.23.55:344][754]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.24.02:068][755]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [3/9] OuterName: [no shot(3)] InnerName: JonoCam2(Shot2).
+[2026.11.26-08.24.02:072][755]LogMovieRenderPipeline: Expanding Shot 3/9 (Shot: no shot(3) Camera: JonoCam2(Shot2))
+[2026.11.26-08.24.02:072][755]Cmd: r.HLOD 0
+[2026.11.26-08.24.02:081][755]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.24.02:158][755]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.24.02:158][755]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.24.02:158][755]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [3/9] OuterName: [no shot(3)]  InnerName: JonoCam2(Shot2).
+[2026.11.26-08.24.08:667][755]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.24.08:667][755]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.24.10:772][761]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.24.10:772][762]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.24.10:772][762]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.24.11:191][762]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.24.11:588][763]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.24.58:392][903]Cmd: r.HLOD 0
+[2026.11.26-08.24.58:393][903]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.25.04:916][904]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [4/9] OuterName: [no shot(4)] InnerName: JonoCam3(shot2).
+[2026.11.26-08.25.04:920][904]LogMovieRenderPipeline: Expanding Shot 4/9 (Shot: no shot(4) Camera: JonoCam3(shot2))
+[2026.11.26-08.25.04:921][904]Cmd: r.HLOD 0
+[2026.11.26-08.25.04:930][904]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.25.05:002][904]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.25.05:002][904]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.25.05:002][904]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [4/9] OuterName: [no shot(4)]  InnerName: JonoCam3(shot2).
+[2026.11.26-08.25.11:236][904]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.25.11:236][904]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.25.13:840][910]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.25.13:840][911]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.25.13:840][911]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.25.13:918][912]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.25.14:347][912]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.25.36:509][991]Cmd: r.HLOD 0
+[2026.11.26-08.25.36:510][991]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.25.42:875][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6434.251465
+[2026.11.26-08.25.42:876][992]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [5/9] OuterName: [no shot(5)] InnerName: JonoCam4(shot2).
+[2026.11.26-08.25.42:881][992]LogMovieRenderPipeline: Expanding Shot 5/9 (Shot: no shot(5) Camera: JonoCam4(shot2))
+[2026.11.26-08.25.42:881][992]Cmd: r.HLOD 0
+[2026.11.26-08.25.42:890][992]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.25.42:958][992]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.25.42:958][992]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.25.42:958][992]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [5/9] OuterName: [no shot(5)]  InnerName: JonoCam4(shot2).
+[2026.11.26-08.25.49:278][992]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.25.49:278][992]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.25.50:391][995]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.11.26-08.25.50:391][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6441.721680, Update Interval: 331.196625
+[2026.11.26-08.25.51:654][998]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.25.51:654][999]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.25.51:654][999]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.25.51:746][999]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.25.52:257][  0]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.26.19:416][ 74]Cmd: r.HLOD 0
+[2026.11.26-08.26.19:417][ 74]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.26.26:185][ 75]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [6/9] OuterName: [no shot(6)] InnerName: JonoCam5(s2).
+[2026.11.26-08.26.26:190][ 75]LogMovieRenderPipeline: Expanding Shot 6/9 (Shot: no shot(6) Camera: JonoCam5(s2))
+[2026.11.26-08.26.26:190][ 75]Cmd: r.HLOD 0
+[2026.11.26-08.26.26:201][ 75]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.26.26:277][ 75]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.26.26:277][ 75]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.26.26:277][ 75]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [6/9] OuterName: [no shot(6)]  InnerName: JonoCam5(s2).
+[2026.11.26-08.26.32:869][ 75]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.26.32:869][ 75]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.26.35:492][ 81]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.26.35:492][ 82]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.26.35:492][ 82]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.26.35:932][ 83]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.26.36:289][ 83]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.27.08:709][174]Cmd: r.HLOD 0
+[2026.11.26-08.27.08:710][174]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.27.15:606][175]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [7/9] OuterName: [no shot(7)] InnerName: JonoCam6(s2).
+[2026.11.26-08.27.15:612][175]LogMovieRenderPipeline: Expanding Shot 7/9 (Shot: no shot(7) Camera: JonoCam6(s2))
+[2026.11.26-08.27.15:612][175]Cmd: r.HLOD 0
+[2026.11.26-08.27.15:620][175]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.27.15:702][175]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.27.15:702][175]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.27.15:702][175]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [7/9] OuterName: [no shot(7)]  InnerName: JonoCam6(s2).
+[2026.11.26-08.27.22:337][175]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.27.22:338][175]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.27.24:889][181]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.27.24:889][182]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.27.24:889][182]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.27.25:265][182]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.27.25:568][183]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.27.27:903][189]Cmd: r.HLOD 0
+[2026.11.26-08.27.27:904][189]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.27.34:641][190]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [8/9] OuterName: [no shot(8)] InnerName: JonoCam7(s2).
+[2026.11.26-08.27.34:646][190]LogMovieRenderPipeline: Expanding Shot 8/9 (Shot: no shot(8) Camera: JonoCam7(s2))
+[2026.11.26-08.27.34:646][190]Cmd: r.HLOD 0
+[2026.11.26-08.27.34:656][190]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.27.34:732][190]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.27.34:732][190]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.27.34:732][190]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [8/9] OuterName: [no shot(8)]  InnerName: JonoCam7(s2).
+[2026.11.26-08.27.41:277][190]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.27.41:277][190]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.27.43:430][196]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.27.43:430][197]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.27.43:430][197]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.27.43:804][197]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.27.43:845][198]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.28.10:020][267]Cmd: r.HLOD 0
+[2026.11.26-08.28.10:022][267]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.28.16:401][268]LogMovieRenderPipeline: MovieGraph Initializing Camera Cut [9/9] OuterName: [no shot(9)] InnerName: JonoCam8(s2).
+[2026.11.26-08.28.16:405][268]LogMovieRenderPipeline: Expanding Shot 9/9 (Shot: no shot(9) Camera: JonoCam8(s2))
+[2026.11.26-08.28.16:406][268]Cmd: r.HLOD 0
+[2026.11.26-08.28.16:415][268]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.28.16:488][268]LogMovieRenderPipeline: Initialized Renderer: Deferred Layer: beauty TileCount[1, 1]/[1, 1] AutoExposurePass: 0 HighRes: 0 PageToSystem: 0 TotalSceneViewStateReferences: 1
+[2026.11.26-08.28.16:488][268]LogMovieRenderPipeline: Finished initializing 1 Render Passes (with 1 total layers and 1 cameras).
+[2026.11.26-08.28.16:488][268]LogMovieRenderPipeline: MovieGraph Finished initializing Camera Cut [9/9] OuterName: [no shot(9)]  InnerName: JonoCam8(s2).
+[2026.11.26-08.28.22:799][268]LogMovieRenderPipeline: Set-up Renderer: Deferred Layer: beauty AccumulatorResolution: [3840, 2160] BackbufferResolution: [3840, 2160]
+[2026.11.26-08.28.22:799][268]LogMovieRenderPipeline: Allocated a View Render Target sized: (3840, 2160), Bytes: 66356528
+[2026.11.26-08.28.24:822][274]LogMovieRenderPipeline: Allocated a Surface Queue sized: (3840, 2160)
+[2026.11.26-08.28.24:822][275]LogMovieRenderPipeline: Allocated a Accumulator Pool for AccumulatorType: ImageOverlappedAccumulator
+[2026.11.26-08.28.24:822][275]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 1
+[2026.11.26-08.28.24:901][276]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 2
+[2026.11.26-08.28.25:284][276]LogMovieRenderPipeline: Allocated a Accumulator for Pool ImageOverlappedAccumulator, New Pool Count: 3
+[2026.11.26-08.28.52:329][362]Cmd: r.HLOD 0
+[2026.11.26-08.28.52:330][362]LogConsoleManager: Display: Trying to Replace Cvar=r.Water.WaterInfo.RenderMethod Set By Constructor Value implicitly by calling SetWithCurrentPriority or ReplaceCurrentPriorityAndTag.
+This is not allowed, possible solutions:
+1. Use SetWithCurrentPriority or ReplaceCurrentPriorityAndTag with explicit MinPriority and MaxPriority values, with MinPriority >= ECVF_SetByScalability.
+2. Use explicit Set, Cvar->Set(<Value>, <SetByPriority>)
+[2026.11.26-08.28.52:330][362]LogMovieRenderPipeline: MovieGraph Finished rendering last shot. Moving to Finalize to finish writing items to disk.
+[2026.11.26-08.29.03:246][364]LogMovieRenderPipeline: Movie Graph Render completed. Duration: +00:06:53.897
+[2026.11.26-08.29.09:840][364]MoviePipelinePIEExecutor: Warning: Shot/Camera "no shot(7) [JonoCam6(s2)]" starts on a sub-frame. Rendered range has been rounded to the previous frame to make output numbers align with Sequencer.
+[2026.11.26-08.29.10:578][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.26-08.29.10:578][364]LogWorld: BeginTearingDown for /Game/Assignment3/UEDPIE_0_Castle_PreBattle
+[2026.11.26-08.29.10:580][364]LogSlate: Window 'Movie Pipeline Render (Preview) [Job 1/1 Total] Current Job: 100% Completed.' being destroyed
+[2026.11.26-08.29.10:586][364]LogWorld: UWorld::CleanupWorld for Castle_PreBattle, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.10:601][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.10:606][364]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.11.26-08.29.10:751][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.11:020][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2026.11.26-08.29.11:024][364]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=30, StreamState=4
+[2026.11.26-08.29.11:036][364]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.26-08.29.11:040][364]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.11.26-08.29.11:041][364]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2026.11.26-08.29.11:073][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2026.11.26-08.29.11:467][365]LogMovieRenderPipeline: MoviePipelineLinearExecutorBase finished 1 jobs in +00:07:03.191.
+[2026.11.26-08.29.11:472][365]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2026.11.26-08.29.25:657][498]LogSlate: Window 'Message Log' being destroyed
+[2026.11.26-08.29.25:673][498]LogSlate: Window 'Message Log' being destroyed
+[2026.11.26-08.29.28:033][628]LogSlate: Window 'Movie Render Queue' being destroyed
+[2026.11.26-08.29.28:046][628]LogSlate: Window 'Movie Render Queue' being destroyed
+[2026.11.26-08.29.31:068][798]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [Scalability]
+[2026.11.26-08.29.31:070][798]LogConfig: Set CVar [[r.ViewDistanceScale:0.8]]
+[2026.11.26-08.29.31:070][798]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [Scalability]
+[2026.11.26-08.29.31:071][798]LogConfig: Set CVar [[r.FXAA.Quality:3]]
+[2026.11.26-08.29.31:071][798]LogConfig: Set CVar [[r.TemporalAA.Quality:1]]
+[2026.11.26-08.29.31:071][798]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2026.11.26-08.29.31:071][798]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2026.11.26-08.29.31:071][798]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:2]]
+[2026.11.26-08.29.31:072][798]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:1]]
+[2026.11.26-08.29.31:072][798]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [Scalability]
+[2026.11.26-08.29.31:072][798]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2026.11.26-08.29.31:073][798]LogConfig: Set CVar [[r.Shadow.MaxResolution:1024]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.DistanceScale:0.85]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:2048]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:0.0]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectionalMoving:0.0]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocalMoving:1.0]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:4]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.Shadow.Virtual.MarkCoarsePagesLocal:2]]
+[2026.11.26-08.29.31:074][798]LogConfig: Set CVar [[r.MegaLights.DownsampleMode:2]]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SpecularOnly:1]]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.SoftShadows:0]]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.MegaLights.FrontLayerTranslucency.TexturedRectLights:0]]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.MegaLights.Volume.GridPixelSize:16]]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.MegaLights.Volume.GridSizeZ:64]]
+[2026.11.26-08.29.31:075][798]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@2] File [Scalability]
+[2026.11.26-08.29.31:075][798]LogConfig: Set CVar [[r.AOQuality:1]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.AtlasSize:3584]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardMinResolution:4]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.DirectLighting.MaxLightsPerTile:4]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.DirectLighting.UpdateFactor:64]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.Radiosity.UpdateFactor:128]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:8]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:3]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:0]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:16]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:100]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:32]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.NumAdaptiveProbes:16]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2026.11.26-08.29.31:139][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:1]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:1]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:0]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.DownsampleFactor:2]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.BentNormal:0]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HorizonSearch.HZB:1]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ShortRangeAO.HorizonSearch.ForegroundSampleRejectPower:1.5]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:64]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:0]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:70]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.Lumen.HardwareRayTracing.HitLighting.Allowed:0]]
+[2026.11.26-08.29.31:140][798]LogConfig: Set CVar [[r.RayTracing.Scene.BuildMode:0]]
+[2026.11.26-08.29.31:511][798]LogConfig: Applying CVar settings from Section [ReflectionQuality@2] File [Scalability]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.SSR.Quality:2]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:1]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:2]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.Reflections.MaxRoughnessToTraceForFoliage:0.2]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.MaxRoughnessToEvaluateRoughSpecularForFoliage:0.4]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.NumSamples:3]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.Reflections.ScreenSpaceReconstruction.MinWeight:1]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:0]]
+[2026.11.26-08.29.31:511][798]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2026.11.26-08.29.31:512][798]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [Scalability]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.MotionBlurQuality:3]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:50.000]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.FastBlurThreshold:3]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.Upscale.Quality:2]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.Filter.SizeScale:0.8]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.LUT.Shaper:0]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.LUT.Size:32]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Gather.ResolutionDivisor:2         ; lower gathering resolution]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2026.11.26-08.29.31:512][798]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [Scalability]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.MaxAnisotropy:4]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.Streaming.PoolSize:800]]
+[2026.11.26-08.29.31:513][798]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [Scalability]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.TranslucencyLightingVolume.Dim:48]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SceneColorFormat:3]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.DetailMode:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SSS.SampleSet:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SSS.Quality:-1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SSS.HalfRes:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SSGI.Quality:2]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.EmitterSpawnRateScale:0.5]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.ParticleLightQuality:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.Fog.SeparateComposition:0		; Force fog separate composition disabled, forcing FSSS disabled for better performance]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[fx.Niagara.QualityLevel:2]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.HeterogeneousVolumes.DownsampleFactor:2]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.HeterogeneousVolumes.MaxStepCount:96]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[r.HeterogeneousVolumes.Shadows.Resolution:256]]
+[2026.11.26-08.29.31:513][798]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [Scalability]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[foliage.DensityScale:0.8]]
+[2026.11.26-08.29.31:513][798]LogConfig: Set CVar [[grass.DensityScale:0.8]]
+[2026.11.26-08.29.31:514][798]LogConfig: Set CVar [[pcg.Quality:2]]
+[2026.11.26-08.29.31:514][798]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [Scalability]
+[2026.11.26-08.29.31:514][798]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2026.11.26-08.29.31:514][798]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2026.11.26-08.29.31:514][798]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2026.11.26-08.29.31:514][798]LogConfig: Applying CVar settings from Section [LandscapeQuality@2] File [Scalability]
+[2026.11.26-08.29.31:933][799]LogRenderer: Display: Recreating Shadow.Virtual.PhysicalPagePool due to size or flags change. This will also drop any cached pages.
+[2026.11.26-08.29.32:118][803]LogContentStreaming: Texture pool size now 800 MB
+[2026.11.26-08.29.32:118][803]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="800"
+[2026.11.26-08.29.36:770][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.11.26-08.29.38:446][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.11.26-08.29.38:495][154]LogStall: Shutdown...
+[2026.11.26-08.29.38:531][154]LogStall: Shutdown complete.
+[2026.11.26-08.29.39:038][154]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.11.26-08.29.39:179][154]LogSlate: Window 'CinematicLab - Unreal Editor' being destroyed
+[2026.11.26-08.29.40:433][154]Cmd: QUIT_EDITOR
+[2026.11.26-08.29.40:433][155]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.11.26-08.29.40:443][155]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.11.26-08.29.40:444][155]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.11.26-08.29.40:445][155]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.11.26-08.29.40:748][155]LogWorld: UWorld::CleanupWorld for Castle_PreBattle, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:751][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:762][155]LogMovieScene: USequencerBakeSubsystem subsystem deinitialized.
+[2026.11.26-08.29.40:800][155]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.11.26-08.29.40:943][155]LogToolsetRegistry: Display: Unregistering Toolset ToolsetRegistry.AgentSkillToolset
+[2026.11.26-08.29.40:952][155]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.11.26-08.29.40:967][155]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:967][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:969][155]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:969][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:969][155]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:969][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:981][155]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:981][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:981][155]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:981][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:981][155]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.11.26-08.29.40:981][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.11.26-08.29.40:999][155]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.11.26-08.29.41:010][155]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.11.26-08.29.41:558][155]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerWasapi)...
+[2026.11.26-08.29.41:558][155]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.11.26-08.29.41:558][155]LogAudio: Display: Audio Device unregistered from world 'Castle_PreBattle'.
+[2026.11.26-08.29.41:558][155]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.11.26-08.29.41:559][155]LogAudioMixer: Display: FAudioMixerWasapi::StopAudioStream() InstanceID=1, StreamState=4
+[2026.11.26-08.29.41:603][155]LogAudioMixerWasapi: Display: FWasapiServiceWatcher stopped.
+[2026.11.26-08.29.41:641][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.11.26-08.29.41:641][155]LogAudio: Display: Audio Device Manager Shutdown
+[2026.11.26-08.29.41:723][155]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.11.26-08.29.41:725][155]LogExit: Preparing to exit.
+[2026.11.26-08.29.41:749][155]LogPython: [MetaHumanGenerator] Session cache cleared
+[2026.11.26-08.29.43:068][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2026.11.26-08.29.44:350][155]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.11.26-08.29.44:351][155]LogAssetRegistry: Display:   CachedAssetRegistry_0_FD63F1A140AC8D223310FDA46EB8CF65.bin: delete failed (orphaned but still in use)
+[2026.11.26-08.29.44:351][155]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 2 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 1 orphans locked (kept)
+[2026.11.26-08.29.44:368][155]LogEditorDataStorage: Deinitializing
+[2026.11.26-08.29.44:376][155]LogEditorDataStorage: De-initializing TEDS Compatibility.
+[2026.11.26-08.29.44:376][155]LogEditorDataStorage: De-initialized TEDS Compatibility.
+[2026.11.26-08.29.44:376][155]LogEditorDataStorage: De-initializing TEDS Core.
+[2026.11.26-08.29.44:376][155]LogEditorDataStorage: Resetting TEDS Core.
+[2026.11.26-08.29.44:400][155]LogEditorDataStorage: Reset TEDS Core.
+[2026.11.26-08.29.44:400][155]LogEditorDataStorage: De-initialized TEDS Core.
+[2026.11.26-08.29.46:895][155]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.11.26-08.29.47:765][155]LogExit: Editor shut down
+[2026.11.26-08.29.47:828][155]LogExit: Transaction tracking system shut down
+[2026.11.26-08.29.48:729][155]LogTemp: Actor being destructed
+[2026.11.26-08.29.49:259][155]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.26-08.29.49:259][155]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.26-08.29.49:396][155]LogEditorDataStorage: Destroyed TEDS Core.
+[2026.11.26-08.29.49:396][155]LogEditorDataStorage: Destroyed TEDS Compatibility.
+[2026.11.26-08.29.52:742][155]LogExit: Object subsystem successfully closed.
+[2026.11.26-08.29.52:851][155]LogShaderCompilers: Display: Exiting ShaderCompilingThread
+[2026.11.26-08.29.53:452][155]LogMixManager: Begin MixManager::Suspend
+[2026.11.26-08.29.53:452][155]LogMixManager: End MixManager::Suspend
+[2026.11.26-08.29.54:459][155]LogDevice: Display: [Device_FX] Shutdown drained 3 native tasks (expected on fast exit)
+[2026.11.26-08.29.54:459][155]LogDevice: Display: [Device_Mem] Shutdown drained 3 native tasks (expected on fast exit)
+[2026.11.26-08.29.54:460][155]LogDevice: Display: [Device_MemCM] Shutdown drained 3 native tasks (expected on fast exit)
+[2026.11.26-08.29.54:460][155]LogDevice: Display: [Device_Disk] Shutdown drained 3 native tasks (expected on fast exit)
+[2026.11.26-08.29.54:460][155]LogDevice: Display: [Device_Null] Shutdown drained 3 native tasks (expected on fast exit)
+[2026.11.26-08.29.54:461][155]LogTextureGraphEngine: Destroying the TextureGraphEngine!
+[2026.11.26-08.29.54:923][155]LogObjectProfiler: Shutdown
+[2026.11.26-08.29.54:924][155]LogMemoryProfiler: Shutdown
+[2026.11.26-08.29.54:925][155]LogNetworkingProfiler: Shutdown
+[2026.11.26-08.29.54:925][155]LogLoadingProfiler: Shutdown
+[2026.11.26-08.29.54:926][155]LogTimingProfiler: Shutdown
+[2026.11.26-08.29.54:938][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.11.26-08.29.54:939][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.11.26-08.29.54:939][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDCameraTracesExtension] ...
+[2026.11.26-08.29.54:939][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDParticleExtraDataExtension] ...
+[2026.11.26-08.29.54:939][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FPerformanceMetricsExtension] ...
+[2026.11.26-08.29.54:940][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FMoverCVDExtension] ...
+[2026.11.26-08.29.56:820][155]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.11.26-08.29.56:833][155]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.11.26-08.29.56:833][155]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B67DAC109-4989-E1A5-354D-E097CD162857%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.8.3-58210709%2B%2B%2BUE5%2BRelease-5.8&UserID=c05de58b47b5037f25aa50b9a23bd6d3%7C397f0f79d387473c9e2b47a4e467b2dc%7C9eb3e01d-bb31-40e2-aeb1-90ac70def540&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.11.26-08.29.57:488][155]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.11.26-08.29.57:488][155]LogNFORDenoise: NFORDenoise function shutting down
+[2026.11.26-08.29.57:505][155]RenderDocPlugin: plugin has been unloaded.
+[2026.11.26-08.29.57:523][155]LogPakFile: Destroying PakPlatformFile
+[2026.11.26-08.29.59:006][155]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.11.26-08.29.59:222][155]LogExit: Exiting.
+[2026.11.26-08.29.59:259][155]Log file closed, 11/26/26 19:29:59
